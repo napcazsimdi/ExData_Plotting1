@@ -1,3 +1,6 @@
+This repository includes 4 png files and 4 R scripts for the completion of the Course Project 1 in Coursera's Exploratory Data Analysis course. The description of the project requirements is given below:
+
+
 ## Introduction
 
 This assignment uses data from
